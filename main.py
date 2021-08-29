@@ -1,2 +1,2 @@
 from colorama import Fore, Back, Style
-print(Fore.RED + 'Hello')
+print(Fore.GREEN + 'Hello')
